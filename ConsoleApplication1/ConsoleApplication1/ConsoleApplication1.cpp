@@ -5,6 +5,7 @@
 
 int main()
 {
+    //Изменения в мастере
     std::cout << "Hello World!\n";
     int t = 190;
 }
