@@ -6,5 +6,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    int t = 190;
+    int t = 600;
+    std::cout << t;
 }
